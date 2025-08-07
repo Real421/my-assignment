@@ -28,8 +28,19 @@ h1{
 }
 .header{
     background-image: url(../repository/B12A01-landing-launchpad/Assets/Hero-bg.png);
-    background-repeat: no-repeat;
-    min-height: 500px;
-    background-size: cover;
-   
+    }
+/* action */
+h3{
+    font-size: 3em;
+    margin-left: 20px;
+}
+.paragraph{
+    color:#252432;
+    font-size: 2em;
+    margin-left: 20px;
+}
+.btn{
+    color: white;
+    margin-left: 20px;
+    padding: 20px;
 }
