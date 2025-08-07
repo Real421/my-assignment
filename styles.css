@@ -44,3 +44,13 @@ h3{
     margin-left: 20px;
     padding: 20px;
 }
+.middle{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+   
+}
+img{
+     border-radius: 30px;
+}
+/*  */
