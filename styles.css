@@ -1,4 +1,35 @@
 /* banner */
 button{
     background-color: blue;
+    border-radius: 15px;
+    padding: 5px;
+    border: none;
+    font-size: 16px;
+    font-weight: 500px;
+    color: white;
+} 
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin:2%
+    
+}
+h1{
+    color: blue;
+}
+ .para{
+    font-size: 2em;
+    margin-left: 300px;
+}
+.btn-primary{
+    margin-left: 300px;
+    padding: 20px;
+    color: white;
+}
+.header{
+    background-image: url(../repository/B12A01-landing-launchpad/Assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    min-height: 500px;
+    background-size: cover;
+   
 }
