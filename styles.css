@@ -27,8 +27,8 @@ h1{
     color: white;
 }
 .header{
-    background-image: url(../repository/B12A01-landing-launchpad/Assets/Hero-bg.png);
-    }
+   background-image: url(images/Hero-bg.png);
+     }
 /* action */
 h3{
     font-size: 3em;
@@ -53,4 +53,24 @@ h3{
 img{
      border-radius: 30px;
 }
-/*  */
+/* productive user */
+.container{
+    list-style-type: none;
+    font-size: 4em;
+    display: flex;
+    justify-content:space-evenly;
+    color: blue;
+    font-weight: bolder;   
+}
+.user{
+    font-size: 2.5em;
+   margin-left: 350px;
+}
+.uncontainer{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: large;
+    color: #000000;
+    }
+   /* review */
