@@ -83,3 +83,13 @@ img{
     grid-template-columns: repeat(3,1fr);
     
   }
+  /* 5th part */
+  span{
+    font-size: 3em;
+    margin: 300px;
+
+  }
+  h5
+{
+    margin-left: 300px;
+}
